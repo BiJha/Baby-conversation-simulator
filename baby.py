@@ -5,4 +5,4 @@ question = choice(questions)
 answer = input(question).strip().lower()
 while answer != "just because":
     answer = input("why?:").strip().lower()
-print("ok")
+print("Oh...Ok")
